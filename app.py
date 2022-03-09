@@ -1,4 +1,4 @@
 import os
-inport sys
+import sys
 
 print('New file')
